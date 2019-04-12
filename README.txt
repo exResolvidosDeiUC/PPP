@@ -8,3 +8,4 @@ Para contribuir com resoluções, comentar código ou reportar erros -> brugesmi
 Outros repositórios serão criados para IPRP e POAO
 
 Contribuidores:
+Ana Beatriz Marques anafm@student.dei.uc.pt
